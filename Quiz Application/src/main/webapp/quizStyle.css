@@ -51,12 +51,16 @@ h2 {
 	position: relative;
 }
 
-input button {
-	height: 60px;
+input {
+	height: 50px;
 	padding: 5px;
-	background-color: #008080;
+	background-color: #00ff80;
 	border-radius: 3px;
-	border: 1px solid #c4c4c4;
-	font-size: 2rem;
+	border: 1px solid #000000;
+	font-size: 1.6rem;
 	color: #333;
+}
+
+.name {
+	background-color: #ffffff;
 }

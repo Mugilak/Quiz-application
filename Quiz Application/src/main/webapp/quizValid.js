@@ -88,7 +88,7 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton) 
 		if(!unAnswered){
 		resultsContainer.innerHTML = 'SCORE : ' + numCorrect + ' out of ' + questions.length;
 		}else{
-			resultsContainer.innerHTML='Some questions are not answered.. Please check before submit'
+			resultsContainer.innerHTML='Some questions are not answered..'
 		}
 	}
 
