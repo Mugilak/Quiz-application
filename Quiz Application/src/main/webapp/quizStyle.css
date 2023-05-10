@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+.container {
+	display: block;
+	margin: 40px;
+}
+
+h2 {
+	text-align: center;
+	color: blue;
+}
+
+.result {
+	background-color: grey;
+	visibility: hidden;
+}
+
+.name {
+	margin: 15px;
+	padding-left: 50px;
+	font-size : 35px;
+}
+
+.evaluate {
+	margin: 30px;
+	display:block;
+	text-align : center;
+}
+
+.num {
+	font-size: 29px;
+	color: darkblue; display : table-cell;
+	margin-right: 200px;
+	display: table-cell;
+}
+#result{
+	margin: 30px;
+	text-align : center;
+	font-size : 40px;
+}
+
+.section {
+	margin: 30px;
+	font-size:30px;
+	display: block;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: aquamarine;
+	position: relative;
+}
