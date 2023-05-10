@@ -2,7 +2,7 @@
 
 .container {
 	display: block;
-	margin: 40px;
+	margin: 60px;
 }
 
 h2 {
@@ -40,7 +40,7 @@ h2 {
 }
 
 .section {
-	margin: 30px;
+	margin: 50px;
 	font-size:30px;
 	display: block;
 	padding-top: 30px;
@@ -49,4 +49,14 @@ h2 {
 	padding-right: 100px;
 	background-color: aquamarine;
 	position: relative;
+}
+
+input button {
+	height: 60px;
+	padding: 5px;
+	background-color: #008080;
+	border-radius: 3px;
+	border: 1px solid #c4c4c4;
+	font-size: 2rem;
+	color: #333;
 }
